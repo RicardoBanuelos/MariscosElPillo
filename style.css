@@ -1,0 +1,13 @@
+html {
+  background-color: black;
+  opacity: 0.8;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 720px;
+  margin-bottom: 20px;
+}
+/*# sourceMappingURL=style.css.map */
